@@ -1,11 +1,9 @@
 # Horiseon
 
 # Horison Main Page
-## Heading 2 
-### Heading 3
-#### Heading 4
-Emphasis, italics with _asterisks_ 
-Strong emphasis, or bold - **someothing important**
+
+#### offers many different tools that helps control the business online
+
 ---
 ![alt text](https://i.imgur.com/4FF4Pvf.png "some text")
 
