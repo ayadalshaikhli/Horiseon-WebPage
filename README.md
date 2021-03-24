@@ -2,7 +2,7 @@
 
 # Horison Main Page
 
-#### offers many different tools that helps control the business online
+#### A website that offers many different tools that helps control the business online
 
 ---
 ![alt text](https://i.imgur.com/4FF4Pvf.png "some text")
