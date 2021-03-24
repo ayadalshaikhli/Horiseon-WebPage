@@ -10,6 +10,6 @@ Strong emphasis, or bold - **someothing important**
 ![alt text](https://i.imgur.com/4FF4Pvf.png "some text")
 
 ---
-[![forthebadge](http://forthebadge.com/images/badges/made-with-html.svg)](http://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com)
 https://github.com/athityakumar/colorls/blob/master/README.md
 -[installation](#installation)
