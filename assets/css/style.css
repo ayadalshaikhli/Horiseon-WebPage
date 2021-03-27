@@ -10,6 +10,9 @@ body {
 
 /* Header NavBar */
 .header {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
   padding: 20px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
@@ -18,7 +21,6 @@ body {
 }
 
 .header h1 {
-  display: inline-block;
   font-size: 48px;
 }
 
@@ -35,11 +37,12 @@ body {
 }
 
 .header nav ul {
+  display: flex;
+  flex-flow: row wrap;
   list-style-type: none;
 }
 
 .header nav ul li {
-  display: inline-block;
   margin-left: 25px;
 }
 
@@ -106,7 +109,7 @@ p {
   width: 20%;
   height: 100%;
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
-  background-color: #2589bd;
+  background-color: #0072bb;
 }
 
 .benefits img {
